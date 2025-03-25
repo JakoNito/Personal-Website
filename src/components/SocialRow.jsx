@@ -1,6 +1,6 @@
 function SocialRow() {
     return (
-        <div className="flex justify-between items-center">
+        <div className="flex justify-center gap-10 ">
             {/* Linkedin */}
             <a href='https://www.linkedin.com/in/jan-karlo-nito/'>
                 <img src='Linkedin.svg' className='pointer-events-none h-12 xs:sm:h-72 md:xl:h-10' alt='Linkedin'></img>
