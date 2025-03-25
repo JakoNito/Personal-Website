@@ -13,9 +13,8 @@ function Profile() {
                 <div className="mx-[25%]">
                     <p>
                         I am a driven and committed final year student at the Auckland University of Technology studying Computer Science
-                        and I am aiming to land a Software Developer Graduate position at Sandfield. I am in the final year of my Computer Science
-                        degree, majoring in Software Development and achieving a 7.2 GPA. I thrive in a team environment and demonstrate effective
-                        collaboration through both my projects and work experience. I am detail oriented and I am passionate about seeing projects
+                        and I am in the final year of my Computer Science degree, majoring in Software Development. I thrive in a team environment
+                        and demonstrate effective collaboration through both my projects and work experience. I am detail oriented and I am passionate about seeing projects
                         through while using my skills to make a meaningful impact. Outside of my career and academic life, I enjoy going to the gym,
                         playing the guitar, snowboarding and playing basketball.
                     </p>
