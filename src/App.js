@@ -4,7 +4,7 @@ import Title from './components/Title';
 
 function App() {
   return (
-    <div className='App bg-[url(../public/piha3.jpg)] bg-cover'>
+    <div className='App bg-[url(../public/piha2.jpg)] bg-cover'>
       <Title />
       <Profile />
     </div>
