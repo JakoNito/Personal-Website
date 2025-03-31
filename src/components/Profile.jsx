@@ -7,7 +7,7 @@ function Profile() {
                 <div className="flex justify-center mt-20">
                     <img src='profile.jpg' alt='Profile' className='rounded-full pointer-events-none h-48 xs:sm:h-64 md:xl:h-72'></img>
                 </div>
-                <h3 className="font-medium mt-4">Software Engineer</h3>
+                <h3 className="font-medium mt-4">Software Developer</h3>
                 <SocialRow />
                 {/* Personal Statement */}
                 <div className="mx-[25%] text-[15px] sm:text-[16px] md:text-[17px] lg:text-lg text-left text-white">
