@@ -10,7 +10,7 @@ function SocialRow() {
                 <img src='GitHub.svg' className='pointer-events-none h-7' alt='GitHub'></img>
             </a>
             {/* Resume */}
-            <a href='/#'>
+            <a href='/resume.pdf' target="_blank" rel="noopener noreferrer">
                 <h3 className="text-white text-[16px] mb-6 sm:text-[16px] md:text-[18px] lg:text-[20px]">Resume</h3>
             </a>
         </div>
