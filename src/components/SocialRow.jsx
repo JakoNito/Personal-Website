@@ -11,7 +11,7 @@ function SocialRow() {
             </a>
             {/* Resume */}
             <a href='/resume.pdf' target="_blank" rel="noopener noreferrer">
-                <h3 className="text-white text-[16px] mb-6 sm:text-[16px] md:text-[18px] lg:text-[20px]">Resume</h3>
+                <h3 className="text-white text-[16px] hover:underline mb-6 sm:text-[16px] md:text-[18px] lg:text-[20px]">Resume</h3>
             </a>
         </div>
     )
